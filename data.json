@@ -1,10 +1,10 @@
 {
   "apple": {
-    "amount": 9,
+    "amount": 12,
     "unit": "kg"
   },
-  "banana": {
-    "amount": 20,
+  "cherry": {
+    "amount": 1,
     "unit": "kg"
   }
 }
